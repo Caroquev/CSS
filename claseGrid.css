@@ -1,0 +1,44 @@
+#gridcontainer{
+    background-color: bisque;
+    height: 400px;
+    border: 2px solid black;
+    display:grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 50px auto 20px;
+} 
+
+#item1{
+    background-color: red;
+    width: 250px;
+    border: 2px solid black;
+}
+
+#item2{
+    background-color:red ;
+    width: 250px;
+    border: 2px solid black;
+}
+
+#item3{
+    background-color: red;
+    width: 250px;
+    border: 2px solid black;
+}
+
+#item4{
+    background-color: red;
+    width: 250px;
+    border: 2px solid black;
+}
+
+#item5{
+    background-color: red;
+    width: 250px;
+    border: 2px solid black;
+}
+
+#item6{
+    background-color: red;
+    width: 250px;
+    border: 2px solid black;
+}
